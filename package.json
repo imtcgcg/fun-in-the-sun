@@ -1,0 +1,26 @@
+{
+  "name": "fun-in-the-sun",
+  "version": "1.0.0",
+  "description": "So much fun in the sunny sun sun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sptistcgcg/fun-in-the-sun.git"
+  },
+  "keywords": [
+    "fun",
+    "sun",
+    "run",
+    "nun",
+    "gun"
+  ],
+  "author": "Isaac and Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sptistcgcg/fun-in-the-sun/issues"
+  },
+  "homepage": "https://github.com/sptistcgcg/fun-in-the-sun#readme"
+}
